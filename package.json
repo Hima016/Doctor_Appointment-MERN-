@@ -8,7 +8,7 @@
         "start": "node server.js",
         "server": "nodemon server.js",
         "client": "npm strat --prefix ,/client",
-        "dev": "concurrently \"npm run server\" \"npm start\""
+        "dev": "concurrently \"npm start\" \"npm start\""
     },
     "keywords": [],
     "author": "himanshu",
